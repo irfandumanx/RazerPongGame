@@ -1,0 +1,11 @@
+﻿  Ball.cpp
+  APKeyboard.cpp
+E:\VisualStudioProjects\RazerDeneme1\RazerDeneme1\APKeyboard.cpp(42,39): warning C4267: 'başlatılıyor': 'size_t' - 'short' dönüşümü; veri kaybı olabilir
+  Game.cpp
+  Main.cpp
+E:\VisualStudioProjects\RazerDeneme1\RazerDeneme1\Main.cpp(23,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  Kod Üretiliyor...
+E:\VisualStudioProjects\RazerDeneme1\RazerDeneme1\Ball.cpp(21): warning C4715: 'Ball::findDirection': tüm denetim yolları değer döndürmez
+E:\VisualStudioProjects\RazerDeneme1\RazerDeneme1\Ball.cpp(30): warning C4715: 'Ball::findCollisionWithStick': tüm denetim yolları değer döndürmez
+E:\VisualStudioProjects\RazerDeneme1\RazerDeneme1\Ball.cpp(51): warning C4715: 'Ball::checkCollisionWithBorders': tüm denetim yolları değer döndürmez
+  RazerDeneme1.vcxproj -> E:\VisualStudioProjects\RazerDeneme1\x64\Debug\RazerDeneme1.exe
